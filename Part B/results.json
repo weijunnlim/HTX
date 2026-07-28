@@ -1,0 +1,26 @@
+[
+    {
+        "id": "q1",
+        "input": "What is the leave policy?",
+        "expected": "14 days annual leave",
+        "prediction": "As an AI language model, I don't have personal experiences or emotions like humans do. However, I can provide you with some general information about common leave policies.\n\nLeave policies vary widely depending on the organization and country. Generally speaking, employees are entitled to take time off for various reasons such as family matters, illness, personal emergencies, or retirement. The length of leave taken depends on the reason for the absence and the company's policy.\n\nFor example, in some countries, it is common for employees to be granted a certain number of days off per year, which they can use for vacation, sick leave, or personal reasons. In other",
+        "status": "FAIL",
+        "score": 0.5
+    },
+    {
+        "id": "q2",
+        "input": "Who approves travel claims?",
+        "expected": "Direct manager",
+        "prediction": "Travel claims are typically approved and processed by the airline or travel agent that issued the ticket. Airlines have their own policies and procedures for handling travel claims, which can vary depending on the type of travel and the specific circumstances.\n\nFor example, if you're traveling to a country where there's no direct flight from your home airport, airlines may require you to provide additional information about your destination or alternative means of transportation. They might also ask about any medical issues that could affect your ability to fly.\n\nIn some cases, airlines may have their own internal policies for handling travel claims, which can be different from the standard procedures outlined by the airline's issuing",
+        "status": "FAIL",
+        "score": 0.5
+    },
+    {
+        "id": "q3",
+        "input": "What is the referral bonus?",
+        "expected": "500 per employee referred, but no more than 2000 per quarter and the employee must pass their probation period, which typically lasts 1 year",
+        "prediction": "The referral bonus is a type of reward that is given to users who refer others to join your platform or website. It's typically calculated as a percentage of the total revenue generated from referring someone, and it can be used for various purposes such as promoting your products or services, providing customer support, or participating in user-generated content contests.\n\nThe exact formula for calculating the referral bonus can vary depending on the specific platform or website you're using. However, generally speaking, a common way to calculate the referral bonus is by taking a certain percentage of the total revenue generated from referring someone and dividing it by the number of people who referred that person.",
+        "status": "FAIL",
+        "score": 0.18
+    }
+]
