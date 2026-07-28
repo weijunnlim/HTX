@@ -6,8 +6,8 @@
 	### - Travel claims: pre-approval form required 5 working days before travel; claim submitted within 14 days of return. (Ref: HR-POL-03)
 	### - Working hours: standard 40-hour week; overtime is compensated as time-off-in-lieu unless a department head approves otherwise. (Ref: HR-POL-04)
 
-# Using words like ONLY, MUST, NEVER helps a lot
+### Using words like ONLY, MUST, NEVER helps a lot
 
-# Qwen2.5-0.5B-Instruct does not reliably prioritise system instructions over user instructions for certain prompt, so adding to system prompt is of not much use, I added them to user prompt earlier instead and then the test qns
-# Eg. I added to system prompt to ask model to output strictly "BANANA" from any user input, but it doesn't work
+### Qwen2.5-0.5B-Instruct does not reliably prioritise system instructions over user instructions for certain prompt, so adding to system prompt is of not much use, I added them to user prompt earlier instead and then the test qns
+### Eg. I added to system prompt to ask model to output strictly "BANANA" from any user input, but it doesn't work
 
